@@ -10,6 +10,7 @@
 - **Another Design Pattern: yet to decide** - Deepak Singh - To be decided
 - **Introduction to powershell** - Arpit Jain - To be decided
 - **IaaC Using Terraform** - Atul Sharma - To be decided
+- **Introduction to Ansible** - Rishabh Seth
 
 ## Done
 - **Observer Design Pattern: How To implement in java** - Deepak Singh - 4 Dec - https://youtu.be/eH7qfNwKmRU - **(BLOG pending)**
